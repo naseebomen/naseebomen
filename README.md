@@ -7,4 +7,4 @@
 🎥 Making content on social media of my process<br/>
 💭 Currently learning HTML on codecademy<br/>
 
-![Naseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseebomen&theme=dark)
+![Naseeb's GitHub stats](https://github-readme-stats.vercel.app/api?username=naseebomen&theme=gotham)
